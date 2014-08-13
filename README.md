@@ -25,4 +25,4 @@ mux.write(10, 1);
 
 Circuit
 ---
-![Connecting the multiplexer to an Electric Imp Card](http://bobbytechnologies.dk/cicuit.png "Connection Diagram")
+![Connecting the multiplexer to an Electric Imp Card](/MuxMate/cicuit.png "Connection Diagram")
