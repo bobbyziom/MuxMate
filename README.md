@@ -1,7 +1,8 @@
 MuxMate
 =======
 
-16 channel (de-)multiplexer library for electric imp
+16 channel (de-)multiplexer library for electric imp.
+Tested with Texas Instrument's CD4067BE analog multiplexer.
 
 Usage
 ---
@@ -21,3 +22,7 @@ Use the write() method for writing a value to a channel on the multiplexer. Prov
 ```javascript
 mux.write(10, 1);
 ```
+
+Circuit
+---
+![Connecting the multiplexer to an Electric Imp Card](http://bobbytechnologies.dk/cicuit.png "Connection Diagram")
